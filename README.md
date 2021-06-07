@@ -6,9 +6,6 @@
 ### 👯 I’m looking to collaborate on teaching people how to love programming
 ### 📖 I'm currently studying Computer Engineering at UFSMG (Poços de Caldas - MG)
 
-### Spotify Playing!
-[![Spotify](https://novatorem-git-master-alexandre2107.vercel.app
-/api/spotify)](https://open.spotify.com/user/227bdvzaulsnksda4o42rytpa?si=304f73e8e09d4c5d)
 
 
 <!--
