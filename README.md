@@ -4,7 +4,7 @@
 ### About me:
 ### 💻 I’m currently learning C, C++, Flutter Dart and JavaScript
 ### 👯 I’m looking to collaborate on teaching people how to love programming
-### 📖 I'm currently studying Computer Engineering at UFSMG (Poços de Caldas - MG)
+### 📖 I'm currently studying Computer Engineering at IFSMG (Poços de Caldas - MG)
 
 ### Conect with me!
 
