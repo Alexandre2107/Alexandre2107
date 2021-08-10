@@ -20,6 +20,8 @@
 [facebook]: https://www.facebook.com/alexandrehenrique.pereirarodrigues/
 [whatsapp]: https://api.whatsapp.com/send?phone=5535999092107
 
+</br>
+</br>
 
 
 ### Languages and Tools:
