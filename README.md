@@ -20,6 +20,15 @@
 [facebook]: https://www.facebook.com/alexandrehenrique.pereirarodrigues/
 [whatsapp]: https://api.whatsapp.com/send?phone=5535999092107
 
+### Languages and Tools:
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+![VsCode](https://img.shields.io/badge/vscode%20-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 <!--
