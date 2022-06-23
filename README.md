@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Alex!
-### I'm a student, who wants to learn more about Full Stack web developing and Machine Learning
+### I'm a student, who wants to learn more about Full Stack web developing, Mobile and Machine Learning
 ### About me:
 ### 💻 I’m currently learning C, C++, Flutter Dart and JavaScript
 ### 👯 I’m looking to collaborate on teaching people how to love programming
