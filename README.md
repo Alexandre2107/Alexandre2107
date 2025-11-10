@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Alexandre Rodrigues
+## 👨‍💻 Alexandre Rodrigues
 
 **`Web & Mobile Developer / Data & BI Analyst`**
 
