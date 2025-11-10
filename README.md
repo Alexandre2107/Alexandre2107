@@ -110,7 +110,7 @@ I really enjoy to be in collaborative, entrepreneurial environments. I co‑foun
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre2107&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre2107&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&hide=HTML" 
   />
 
 </p>
